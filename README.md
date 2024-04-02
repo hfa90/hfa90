@@ -6,9 +6,7 @@
 
 💼 Atualmente, estou trabalho como suporte de TI N2, onde domino a arte da resolução de problemas e a lógica intricada das redes. Além disso, sou um especialista em manutenção de hardwares, afinal, quem não gosta de desmontar e remontar um computador em busca daquela peça misteriosa?
 
-💡 Ah, e não se engane, minha jornada tecnológica é marcada por uma paixão ardente pelo desenvolvimento de aplicações em VBA, BI. Transformar simples planilhas em ferramentas poderosas é como realizar mágica no Excel!
-
-🐍 Recentemente, embarquei em uma jornada de descoberta com Python, e estou totalmente encantado! Sua simplicidade e versatilidade conquistaram meu coração de desenvolvedor.
+🐍 Recentemente, embarquei em uma jornada de descoberta das linguagens de programacoes e IA, e estou totalmente encantado! Sua simplicidade e versatilidade conquistaram meu coração de desenvolvedor.
 
 🚀 Estou pronto para mergulhar de cabeça em qualquer desafio que o mundo da Engenharia de Software possa lançar em meu caminho. Se você procura por um estagiário entusiasmado, criativo e com uma pitada de humor, então vamos nos conectar! Estou pronto para ser parte da sua equipe e trazer minha bagagem técnica e minha sede insaciável por aprendizado para o seu projeto.
 
