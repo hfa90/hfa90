@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Hayden Fernandes
+# Olá! Eu sou Hayden Fernandes
 
 <div align="center">
   
@@ -28,7 +28,6 @@ Sou **Analista de Suporte** com expertise em desenvolvimento de **automações**
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Ferramentas & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,12 +73,12 @@ class HaydenFernandes:
         self.specialties = [
             "Automação de processos",
             "Web scraping",
-            "Robôs e bots",
+            "Bots",
             "Análise de dados",
             "Suporte técnico",
             "Integração de sistemas"
         ]
-        self.databases = ["MySQL", "PostgreSQL", "SQLite"]
+        self.databases = ["MySQL", "PostgreSQL"]
         self.tools = ["Selenium", "BeautifulSoup", "Pandas", "Requests"]
     
     def current_focus(self):
@@ -115,9 +114,6 @@ class HaydenFernandes:
 </div>
 
 ---
-
-### 🔄 README Atualizado Automaticamente
-*Este README é atualizado dinamicamente através de GitHub Actions*
 
 <!-- Comentários para futuras atualizações dinâmicas -->
 <!-- BLOG-POST-LIST:START -->
